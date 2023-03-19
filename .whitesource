@@ -8,7 +8,7 @@
   "scanSettingsSAST": {
     "enableScan": false,
     "scanPullRequests": false, 
-    "incrementalScan": true,
+    "incrementalScan": true, 
     "baseBranches": [],
     "snippetSize": 10
   },
